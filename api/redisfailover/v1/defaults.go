@@ -5,7 +5,7 @@ const (
 	defaultSentinelNumber        = 3
 	defaultSentinelExporterImage = "leominov/redis_sentinel_exporter:1.3.0"
 	defaultExporterImage         = "oliver006/redis_exporter:v1.3.5-alpine"
-	defaultImage                 = "redis:5.0-alpine"
+	defaultImage                 = "redis:6.2.1-alpine"
 	defaultRedisPort             = "6379"
 )
 
